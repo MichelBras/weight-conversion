@@ -1,6 +1,6 @@
 <?php
 
-namespace Gewoongers\WeightConversion;
+namespace GewoonGers\WeightConversion;
 
 class WeightConversionClass
 {

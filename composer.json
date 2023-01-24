@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Gewoongers\\WeightConversion\\": "src"
+            "GewoonGers\\WeightConversion\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Gewoongers\\WeightConversion\\Tests\\": "tests"
+            "GewoonGers\\WeightConversion\\Tests\\": "tests"
         }
     },
     "scripts": {

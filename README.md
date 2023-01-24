@@ -18,8 +18,8 @@ composer require gewoongers/weight-conversion
 ## Usage
 
 ```php
-$skeleton = new Gewoongers\WeightConversion();
-echo $skeleton->echoPhrase('Hello, Gewoongers!');
+$skeleton = new GewoonGers\WeightConversion();
+echo $skeleton->echoPhrase('Hello, GewoonGers!');
 ```
 
 ## Testing
